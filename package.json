@@ -1,0 +1,20 @@
+{
+  "name": "apicypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "Typeform",
+    "cypress",
+    "API-Testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.2"
+  }
+}
